@@ -1,0 +1,17 @@
+export PATH=$PATH:/usr/local/sbin
+export PATH=$PATH:$HOME/.rbenv/bin
+
+eval "$(rbenv init -)"
+export PATH=/usr/local/bin:$PATH
+export RBENV_ROOT=/usr/local/var/rbenv
+
+### Added by the Heroku Toolbelt
+export PATH=$PATH:/usr/local/heroku/bin
+export PROJECT_HOME=$HOME/Projects
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_VIRTUALENV_ARGS='--no-site-packages'
+export PIP_VIRTUALENV_BASE=$WORKON_HOME
+export PIP_RESPECT_VIRTUALENV=true
+
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python2
+export PYTHONSTARTUP=~/.pythonrc
