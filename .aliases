@@ -4,7 +4,7 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~"
 
-alias dr="cd /Users/kevinpanaro/Documents/Drexel/OneDrive\ -\ Drexel\ University/Senior\ Year/Fall\ Quarter"
+alias dr="cd /Users/kevinpanaro/Documents/Drexel/OneDrive\ -\ Drexel\ University/Senior\ Year/Winter\ Quarter"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
