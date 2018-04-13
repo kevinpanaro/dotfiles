@@ -4,7 +4,7 @@ alias ....="cd ../../.."
 alias .....="cd ../../../.."
 alias ~="cd ~"
 
-alias dr="cd /Users/kevinpanaro/Documents/Drexel/OneDrive\ -\ Drexel\ University/Senior\ Year/Winter\ Quarter"
+alias dr="cd /Users/kevinpanaro/Documents/Drexel/OneDrive\ -\ Drexel\ University/Senior\ Year/Spring\ Quarter"
 alias dl="cd ~/Downloads"
 alias dt="cd ~/Desktop"
 alias p="cd ~/Projects"
@@ -70,3 +70,7 @@ alias path='echo -e ${PATH//:/\\n}'
 alias cp="cp -i"
 alias mv="mv -i"
 alias rm="rm -i"
+
+# easy resourcing
+alias brs="source /Users/kevinpanaro/.bash_profile"
+
