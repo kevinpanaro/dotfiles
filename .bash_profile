@@ -11,3 +11,6 @@ fi
 
 source /usr/local/etc/bash_completion.d/pass
 source /usr/local/etc/bash_completion.d/ssh
+
+# from `brew info python`
+export PATH=/usr/local/opt/python/libexec/bin:$PATH
