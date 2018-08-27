@@ -15,3 +15,4 @@ export PIP_RESPECT_VIRTUALENV=true
 
 export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python
 export PYTHONSTARTUP=~/.pythonrc
+#export EDITOR=/usr/local/bin/subl
