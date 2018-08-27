@@ -74,3 +74,6 @@ alias rm="rm -i"
 # easy resourcing
 alias brs="source /Users/kevinpanaro/.bash_profile"
 
+# pass aliases
+alias ppush="pass git push"
+alias ppull="pass git pull"
