@@ -4,7 +4,10 @@ then
         export PS1="\[$(tput setaf 5)\]\h \[$(tput setaf 7)\]· \[$(tput setaf 3)\]\u \[$(tput setaf 7)\] \W/ \[$(tput sgr0)\]"
 fi
 
+export PS1="\[\e[38;5;122m\]\u\[\e[m\] \W · "
+
+
 
 export CLICOLOR=1
 export LSCOLORS=ExFxCxDxBxegedabagacad
-export EDITOR="/usr/local/bin/subl"
+#export EDITOR="/usr/local/bin/subl"
